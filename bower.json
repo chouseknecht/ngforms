@@ -1,0 +1,24 @@
+{
+  "name": "ngforms",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chouseknecht/ngforms",
+  "authors": [
+    "Chris Houseknecht <chouse@ansibleworks.com>"
+  ],
+  "description": "Thinking about form error handling in Angular",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angularjs": "~1.2.25",
+    "less": "~1.7.5"
+  },
+  "devDependencies": {}
+}
